@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        diceImageView1.image = UIImage(imageLiteralResourceName: "DiceSix")
     }
 
 
