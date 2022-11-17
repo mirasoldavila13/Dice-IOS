@@ -1,6 +1,6 @@
 # Dice-IOS
 
-## Our Goal
+## Goal
 
 Creating a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. 
 
